@@ -53,13 +53,15 @@ The SPSS-ready dataset contains 1,252 trade intelligence records across supplier
 
 ### Data Quality Status
 
-![Data Quality Status of Business Records](assets/spss_charts/data_quality_status.png)
+<img width="850" height="500" alt="data_quality_status" src="https://github.com/user-attachments/assets/2d7009ea-7ebd-489b-a312-81f10333483d" />
+
 
 Most records are classified as Partial, showing that the dataset is useful for reporting but still requires validation before direct outreach.
 
 ### Contact Readiness
 
-![Contact Readiness for Business Follow-up](assets/spss_charts/contact_readiness.png)
+<img width="850" height="500" alt="contact_readiness" src="https://github.com/user-attachments/assets/8b9bfa26-d40b-4110-a14a-e8e9103e161b" />
+
 
 Most records sit in the partial readiness group, which indicates that follow-up planning should include an additional contact checking step.
 
@@ -71,31 +73,36 @@ This chart separates records that are ready for follow-up from records that need
 
 ### Lead Priority
 
-![Lead Priority Groups for Business Follow-up](assets/spss_charts/lead_priority_groups.png)
+<img width="850" height="500" alt="lead_priority_groups" src="https://github.com/user-attachments/assets/bb6ef89c-7fd9-458a-930b-ddf015e691c6" />
+
 
 The high-priority group provides a practical shortlist for reviewing records before outreach or management action.
 
 ### Contact Information Availability
 
-![Contact Information Availability Across Records](assets/spss_charts/contact_information_availability.png)
+<img width="850" height="500" alt="contact_information_availability" src="https://github.com/user-attachments/assets/dc92225f-c805-4f7a-b84e-4cbe4c8786bc" />
+
 
 Website and source information are more consistently available than direct email and phone details, which explains why many records require follow-up validation.
 
 ### Business Category Distribution
 
-![Business Record Distribution by Category](assets/spss_charts/business_category_distribution.png)
+<img width="850" height="500" alt="business_category_distribution" src="https://github.com/user-attachments/assets/ffec936b-a723-42f7-80dd-dfe4702b46e1" />
+
 
 The dataset is concentrated in suppliers, freight and customs agents, logistics, and market shop or buyer records.
 
 ### State or Coverage Area Distribution
 
-![Business Record Distribution by State or Coverage Area](assets/spss_charts/state_distribution.png)
+<img width="850" height="500" alt="state_distribution" src="https://github.com/user-attachments/assets/d183267e-06fe-42c3-b9ea-3064543d6113" />
+
 
 Australia-wide and South Australian records form a large share of the dataset, with additional coverage across NSW, VIC, QLD and WA.
 
 ### High-Priority Records by Category
 
-![High-Priority Records by Business Category](assets/spss_charts/high_priority_by_category.png)
+<img width="850" height="500" alt="high_priority_by_category" src="https://github.com/user-attachments/assets/b1817611-f78d-4fce-9cdd-08e234a18ca6" />
+
 
 High-priority records are concentrated in suppliers, freight and customs agents, and market shop or buyer categories.
 
