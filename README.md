@@ -67,7 +67,8 @@ Most records sit in the partial readiness group, which indicates that follow-up 
 
 ### Business Follow-up Readiness
 
-![Records Ready for Business Follow-up](assets/spss_charts/business_followup_readiness.png)
+<img width="850" height="500" alt="business_followup_readiness" src="https://github.com/user-attachments/assets/e1c985a9-2490-4278-8d53-66386865b11d" />
+
 
 This chart separates records that are ready for follow-up from records that need further data review.
 
